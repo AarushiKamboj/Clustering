@@ -41,7 +41,7 @@ BIRCH (Balanced Iterative Reducing and Clustering using Hierarchies) is a hierar
 Clustering.ipynb notebook is been generated to perform clustering on the dataset-Raisin_Dataset.csv.All the 8 type of clustering is been done on the dataset and got value of certain set of parameters mainly;Silhouette,Calinski-Harabasz,Davies-Bouldin
 
 **First five rows of dataset:-**
-![image](https://github.com/AarushiKamboj/Clustering/assets/142966912/86138e18-cc36-45d2-a3d8-8d5b3f4e9bf1)
+![image](https://github.com/Kunalg55/Clustering/assets/142966912/86138e18-cc36-45d2-a3d8-8d5b3f4e9bf1)
 
 
 **Elbow-Plot**
